@@ -1,0 +1,182 @@
+{
+  "barley": {
+    "optimal_metrics": {
+      "soil_ph": "6.0-8.5",
+      "soil_moisture": "50-70%",
+      "humidity": "60-70%",
+      "nitrogen": "45-90 kg/ha",
+      "n": "45-90 kg/ha",
+      "phosphorous": "15-30 kg/ha",
+      "p": "15-30 kg/ha",
+      "potassium": "15-30 kg/ha",
+      "k": "15-30 kg/ha"
+    },
+    "fertilizer_tips": "Urea and ammonium nitrate are common. A balanced NPK fertilizer (e.g., Kynoch Fertilizer) is recommended to promote robust stem and leaf growth.",
+    "pest_control": "For common diseases like powdery mildew and smuts, seed dressings and foliar fungicides (e.g., Systiva) are effective. Crop rotation and using clean, resistant seed varieties are key.",
+    "plan": "Plant in late April to June, aiming for early planting to maximize yield. Harvest in June-July when the grain is mature. Use a scythe or a harvester for cutting. Harvested barley can be used as feed or sold.",
+    "gov_schemes": "Schemes for cereals and millets often apply to barley. Look for national and state-level schemes that offer subsidies on certified seeds, fertilizers, and farm machinery, such as the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) Yojana.",
+    "equipment": "A tractor with a front loader, a cultivator or rotavator for land preparation, a seeder, a fertilizer spreader, a weeder, and a harvester with a grain header."
+  },
+  "corn": {
+    "optimal_metrics": {
+      "soil_ph": "6.0-7.0",
+      "soil_moisture": "60-80%",
+      "humidity": "No specific range found, but moderate humidity is generally favorable.",
+      "nitrogen": "120-150 kg/ha",
+      "n": "120-150 kg/ha",
+      "phosphorous": "60-80 kg/ha",
+      "p": "60-80 kg/ha",
+      "potassium": "80-100 kg/ha",
+      "k": "80-100 kg/ha"
+    },
+    "fertilizer_tips": "Anhydrous ammonia, urea, and urea-ammonium nitrate solutions are the most common nitrogen sources. Use a P-based starter fertilizer. Look for symptoms of deficiency like dark green leaves (P) or yellow margins on older leaves (K).",
+    "pest_control": "For pests like stem borers and armyworms, use an effective insecticide. For diseases such as leaf blight, a fungicide is necessary. Knapsack sprayers or tractor-mounted boom sprayers are used for application.",
+    "plan": "Ensure uniform seed spacing and depth. Prepare a fine seedbed using a rotavator. Harvest manually or using a maize harvester when the kernels are firm and dry.",
+    "gov_schemes": "Look for schemes like PM-KISAN. Additionally, schemes promoting precision farming and efficient irrigation (drip systems) can be beneficial as corn needs consistent moisture.",
+    "equipment": "A tractor (or mini-tractor for small farms), seed drill/planter, rotavator/cultivator, a boom or knapsack sprayer, and a maize harvester or corn sheller."
+  },
+  "cotton": {
+    "optimal_metrics": {
+      "soil_ph": "5.8-8.0",
+      "soil_moisture": "60-75%",
+      "humidity": "No specific range found, but excessive moisture can lead to disease.",
+      "nitrogen": "100-150 kg/ha",
+      "n": "100-150 kg/ha",
+      "phosphorous": "50-70 kg/ha",
+      "p": "50-70 kg/ha",
+      "potassium": "80-100 kg/ha",
+      "k": "80-100 kg/ha"
+    },
+    "fertilizer_tips": "Granular fertilizers like urea and ammonium nitrate for nitrogen. Superphosphate or diammonium phosphate for phosphorus. Potassium chloride for potassium. Secondary nutrients like boron and zinc are also important, often applied as foliar sprays.",
+    "pest_control": "For bollworms, a combination of biological controls (natural enemies), physical traps, and insecticides is effective. Transgenic cotton varieties like Bollgard II are widely used for pest resistance.",
+    "plan": "Practice crop rotation. Plant with a high-speed planter for precise seed placement. Manage residue with a mulcher to improve soil fertility. Harvest using a cotton picker machine or manually.",
+    "gov_schemes": "The Ministry of Textiles in India offers schemes for cotton technology missions. Look for subsidies on farm machinery (e.g., tractors, planters, pickers) and schemes promoting sustainable cotton farming practices.",
+    "equipment": "High-speed planter, tractor, subsoiler, mini rotary tiller for land prep, mulcher for residue management, and a cotton picker for harvesting."
+  },
+  "potato": {
+    "optimal_metrics": {
+      "soil_ph": "5.5-6.5",
+      "soil_moisture": "70-80%",
+      "humidity": "Good air circulation is key to prevent disease.",
+      "nitrogen": "150-200 kg/ha",
+      "n": "150-200 kg/ha",
+      "phosphorous": "60-80 kg/ha",
+      "p": "60-80 kg/ha",
+      "potassium": "150-250 kg/ha",
+      "k": "150-250 kg/ha"
+    },
+    "fertilizer_tips": "Ammonium sulphate and ammonium nitrate are commonly used. For phosphorus, use a pre-planting dose. Potassium is crucial for tuber quality. Farmyard manure can be used to improve soil organic matter.",
+    "pest_control": "For common issues like blight, use a copper-based fungicide. Ensure proper plant spacing to improve air circulation. Use pesticides for pests like aphids and Colorado potato beetles.",
+    "plan": "Choose well-drained, sandy loam soils. Plant potatoes using a potato planter. Use a ridger for hilling to protect tubers from sunlight. Harvest with a potato digger or harvester.",
+    "gov_schemes": "Horticulture and vegetable cultivation schemes often cover potatoes. Look for schemes from the National Horticulture Board (NHB) and subsidies on post-harvest machinery like cold storage units.",
+    "equipment": "Tractor, potato planter, inter-row cultivators, earthing up ridger, and a potato digger or harvester."
+  },
+  "rice": {
+    "optimal_metrics": {
+      "soil_ph": "5.5-6.5",
+      "soil_moisture": "Flooded conditions",
+      "humidity": "80-90%",
+      "nitrogen": "100-150 kg/ha",
+      "n": "100-150 kg/ha",
+      "phosphorous": "40-60 kg/ha",
+      "p": "40-60 kg/ha",
+      "potassium": "40-60 kg/ha",
+      "k": "40-60 kg/ha"
+    },
+    "fertilizer_tips": "Use NPK blends or urea for nitrogen, and DAP for phosphorus. Use phosphobacteria for nitrogen fixation. For high pH soils, use acidifying fertilizers like ammonium sulfate. Apply in split doses for efficiency.",
+    "pest_control": "For stem borers and leafhoppers, use targeted insecticides. A puddler (on a power tiller) helps control weeds by creating a uniform muddy layer. Use herbicides as needed.",
+    "plan": "Prepare a muddy bed using a power tiller with a puddler. Transplant seedlings using a rice transplanter. Maintain flooded conditions. Harvest with a combine harvester for paddy.",
+    "gov_schemes": "The National Food Security Mission (NFSM) for rice and schemes from the Rashtriya Krishi Vikas Yojana (RKVY) often provide subsidies for seeds, fertilizers, and farm equipment like transplanters and harvesters.",
+    "equipment": "Power tillers with puddlers, rice transplanter, seed drill, combine harvester for paddy, and laser land levellers for uniform water distribution."
+  },
+  "soybean": {
+    "optimal_metrics": {
+      "soil_ph": "6.0-7.0",
+      "soil_moisture": "60-70%",
+      "humidity": "No specific range found, but good air circulation is beneficial.",
+      "nitrogen": "0-50 kg/ha",
+      "n": "0-50 kg/ha",
+      "phosphorous": "50-75 kg/ha",
+      "p": "50-75 kg/ha",
+      "potassium": "75-100 kg/ha",
+      "k": "75-100 kg/ha"
+    },
+    "fertilizer_tips": "Focus on phosphorus, potassium, and micronutrients like magnesium, sulfur, and boron. Use a starter fertilizer with P at planting. For K, apply in split doses if using potassium chloride. Magnesium and sulfur can be applied as foliar sprays.",
+    "pest_control": "For pests like soybean loopers and aphids, use a broad-spectrum insecticide. For diseases like rust, a fungicide is needed. Drones can be used for targeted pesticide application.",
+    "plan": "Ensure uniform seed spacing with a seed drill. Maintain good soil health through crop rotation. Harvest using a combine harvester when the pods are dry and the seeds are firm.",
+    "gov_schemes": "Schemes related to oilseed production often apply. Look for subsidies on seeds, and schemes promoting precision agriculture and efficient irrigation, as soybeans have a high water demand during critical phases.",
+    "equipment": "Tractor, seed drill/planter, soil moisture sensors, combine harvester, and agricultural drones for mapping and spraying."
+  },
+  "sugarcane": {
+    "optimal_metrics": {
+      "soil_ph": "6.0-7.0",
+      "soil_moisture": "70-80%",
+      "humidity": "High humidity is favorable for growth.",
+      "nitrogen": "150-200 kg/ha",
+      "n": "150-200 kg/ha",
+      "phosphorous": "80-100 kg/ha",
+      "p": "80-100 kg/ha",
+      "potassium": "150-200 kg/ha",
+      "k": "150-200 kg/ha"
+    },
+    "fertilizer_tips": "Use farmyard manure or press mud (a byproduct of sugar mills) for organic matter. Apply NPK in split doses. Use bio-fertilizers like Azospirillum for nitrogen fixation. Foliar sprays of urea and potassium can help under moisture stress.",
+    "pest_control": "For pests like shoot borers, a preventive insecticide application is key. For weeds, use a sugarcane intercultivator or herbicide application. Neem cake also works as both a fertilizer and pesticide.",
+    "plan": "Plant sugarcane setts using a planter or digger. Use an earthing up ridger to cover nutrients and protect the plant. Harvest using a sugarcane harvester or manually once the crop is mature.",
+    "gov_schemes": "Sugarcane is a major cash crop. Look for schemes from the National Food Security Mission (NFSM) and state-specific schemes that promote efficient water use and provide subsidies on high-yielding varieties and farm implements.",
+    "equipment": "Sugarcane planter, tractor-operated pit digger, sugarcane intercultivator, earthing up ridger, and a sugarcane harvester."
+  },
+  "sunflower": {
+    "optimal_metrics": {
+      "soil_ph": "6.0-7.5",
+      "soil_moisture": "60-70%",
+      "humidity": "No specific range found, but low humidity is better to prevent disease.",
+      "nitrogen": "60-80 kg/ha",
+      "n": "60-80 kg/ha",
+      "phosphorous": "40-60 kg/ha",
+      "p": "40-60 kg/ha",
+      "potassium": "40-60 kg/ha",
+      "k": "40-60 kg/ha"
+    },
+    "fertilizer_tips": "A balanced NPK formula like 10-10-10 or 5-10-10 (low nitrogen) is recommended. Nitrogen supports foliage, while P and K support root and seed development. You can also use compost.",
+    "pest_control": "For diseases like rust and downy mildew, use resistant varieties. Use fungicides as needed. For pests like cutworms, use appropriate insecticides, especially in the early growth stage.",
+    "plan": "Plant seeds with a push seeder or tractor-mounted seed roller. Water slowly and deeply using a drip irrigation system. Harvest when the back of the flower head turns yellow and the bracts begin to brown.",
+    "gov_schemes": "Oilseed development programs often support sunflower cultivation. Look for schemes from the National Food Security Mission (NFSM) that promote oilseed crops and provide subsidies on seeds and irrigation equipment.",
+    "equipment": "A push seeder with a seed roller, garden gloves and trowel, drip irrigation system, and a simple spray pump."
+  },
+  "tomato": {
+    "optimal_metrics": {
+      "soil_ph": "6.0-6.8",
+      "soil_moisture": "70-80%",
+      "humidity": "Moderate to low humidity to prevent fungal diseases.",
+      "nitrogen": "100-150 kg/ha",
+      "n": "100-150 kg/ha",
+      "phosphorous": "100-120 kg/ha",
+      "p": "100-120 kg/ha",
+      "potassium": "150-200 kg/ha",
+      "k": "150-200 kg/ha"
+    },
+    "fertilizer_tips": "Use a balanced fertilizer like 5-10-10 in the early stages, shifting to a fertilizer with higher P and K once flowers appear. Compost and manure are excellent organic options.",
+    "pest_control": "For pests like aphids, spider mites, and whiteflies, use insecticidal soap. For diseases like blight, use a copper-based fungicide. Ensure good air circulation around the plants to prevent disease.",
+    "plan": "Use cages and trellises to support the plants and keep fruit off the ground. Plant in well-drained, fertile soil. Harvest when the fruit is fully colored and firm.",
+    "gov_schemes": "Horticulture schemes often cover tomatoes. Look for programs from the National Horticulture Board (NHB) that provide subsidies for micro-irrigation systems, protective cultivation (like greenhouses), and post-harvest management.",
+    "equipment": "Tomato cages/trellises, a garden trowel, pruners, drip irrigation system, and a simple spray pump."
+  },
+  "wheat": {
+    "optimal_metrics": {
+      "soil_ph": "6.0-7.0",
+      "soil_moisture": "60-70%",
+      "humidity": "No specific range found, but dry weather during grain filling is best.",
+      "nitrogen": "100-120 kg/ha",
+      "n": "100-120 kg/ha",
+      "phosphorous": "60-80 kg/ha",
+      "p": "60-80 kg/ha",
+      "potassium": "40-60 kg/ha",
+      "k": "40-60 kg/ha"
+    },
+    "fertilizer_tips": "Use urea or other nitrogen fertilizers. Apply phosphorus at planting and potassium as a basal dose. Soil testing is recommended to determine exact nutrient needs. Use organic compost for soil health.",
+    "pest_control": "For rust and powdery mildew, use a systemic fungicide. For pests like aphids and cutworms, use appropriate insecticides. Crop rotation is an effective preventative measure.",
+    "plan": "Plant in well-drained soil using a seed drill. Maintain consistent moisture during tillering and flowering. Harvest with a combine harvester when the grains are golden yellow and hard.",
+    "gov_schemes": "Wheat is a key crop under the National Food Security Mission (NFSM). Look for subsidies on certified seeds, fertilizers, and farm machinery like combine harvesters and tractors.",
+    "equipment": "Tractor, seed drill, cultivator, sprayer, combine harvester, and thresher."
+  }
+}
