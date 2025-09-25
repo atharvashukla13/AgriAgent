@@ -551,6 +551,7 @@ CROP_TO_TOOL: Dict[str, str] = {
     "maize": "optimize_corn",
     "potato": "optimize_potato",
     "rice": "optimize_rice",
+    "paddy": "optimize_rice",
     "soy": "optimize_soybean",
     "soybean": "optimize_soybean",
     "soyabean": "optimize_soybean",
@@ -577,10 +578,11 @@ You extract crop() and numeric inputs from a user's query. Strictly output a JSO
 
 Rules:
 - Crop must be one of: barley, cotton, corn, potato, rice, soybean, sugarcane, sunflower, tomato, wheat.
-- Normalize synonyms, regional names of crops,any language name of crop, and scientific names of crops to exactly one of the above.
+- Normalize synonyms, regional names of crops, any language name of crop, and scientific names of crops to exactly one of the above.
 - If uncertain or no valid mapping, again Normalize synonyms, regional names, and scientific names to exactly one of the barley, cotton, corn, potato, rice, soybean, sugarcane, sunflower, tomato, wheat, if this doesnt work see synonyms map below and try again.
 - Extract numeric values for soil_ph, soil_moisture (percent without %), N, P, K in kg/ha. If missing, use null.
 - Output ONLY the JSON object, nothing else.
+- IMPORTANT: For rice, make sure to include 'paddy' as a synonym.
 
 SYNONYMS = {
     # Rice
